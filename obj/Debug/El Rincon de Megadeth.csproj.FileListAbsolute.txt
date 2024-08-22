@@ -1,0 +1,36 @@
+C:\Users\Lorenzo\OneDrive - INSTITUCION UNIVERSITARIA SALAZAR Y HERRERA\Escritorio\dron\El Rincon de Megadeth\El Rincon de Megadeth\bin\Debug\El Rincon de Megadeth.exe.config
+C:\Users\Lorenzo\OneDrive - INSTITUCION UNIVERSITARIA SALAZAR Y HERRERA\Escritorio\dron\El Rincon de Megadeth\El Rincon de Megadeth\bin\Debug\El Rincon de Megadeth.exe
+C:\Users\Lorenzo\OneDrive - INSTITUCION UNIVERSITARIA SALAZAR Y HERRERA\Escritorio\dron\El Rincon de Megadeth\El Rincon de Megadeth\bin\Debug\El Rincon de Megadeth.pdb
+C:\Users\Lorenzo\OneDrive - INSTITUCION UNIVERSITARIA SALAZAR Y HERRERA\Escritorio\dron\El Rincon de Megadeth\El Rincon de Megadeth\obj\Debug\El Rincon de Megadeth.csproj.AssemblyReference.cache
+C:\Users\Lorenzo\OneDrive - INSTITUCION UNIVERSITARIA SALAZAR Y HERRERA\Escritorio\dron\El Rincon de Megadeth\El Rincon de Megadeth\obj\Debug\El_Rincon_de_Megadeth.Properties.Resources.resources
+C:\Users\Lorenzo\OneDrive - INSTITUCION UNIVERSITARIA SALAZAR Y HERRERA\Escritorio\dron\El Rincon de Megadeth\El Rincon de Megadeth\obj\Debug\El Rincon de Megadeth.csproj.GenerateResource.cache
+C:\Users\Lorenzo\OneDrive - INSTITUCION UNIVERSITARIA SALAZAR Y HERRERA\Escritorio\dron\El Rincon de Megadeth\El Rincon de Megadeth\obj\Debug\El Rincon de Megadeth.csproj.CoreCompileInputs.cache
+C:\Users\Lorenzo\OneDrive - INSTITUCION UNIVERSITARIA SALAZAR Y HERRERA\Escritorio\dron\El Rincon de Megadeth\El Rincon de Megadeth\obj\Debug\El Rincon de Megadeth.exe
+C:\Users\Lorenzo\OneDrive - INSTITUCION UNIVERSITARIA SALAZAR Y HERRERA\Escritorio\dron\El Rincon de Megadeth\El Rincon de Megadeth\obj\Debug\El Rincon de Megadeth.pdb
+C:\Users\Lorenzo\OneDrive - INSTITUCION UNIVERSITARIA SALAZAR Y HERRERA\Escritorio\dron\El Rincon de Megadeth\El Rincon de Megadeth\obj\Debug\El_Rincon_de_Megadeth.Bienvenida.resources
+C:\Users\Lorenzo\OneDrive - INSTITUCION UNIVERSITARIA SALAZAR Y HERRERA\Escritorio\dron\El Rincon de Megadeth\El Rincon de Megadeth\obj\Debug\El_Rincon_de_Megadeth.Menu.resources
+C:\Users\Lorenzo\OneDrive - INSTITUCION UNIVERSITARIA SALAZAR Y HERRERA\Escritorio\dron\El Rincon de Megadeth\El Rincon de Megadeth\bin\Debug\Interop.WMPLib.dll
+C:\Users\Lorenzo\OneDrive - INSTITUCION UNIVERSITARIA SALAZAR Y HERRERA\Escritorio\dron\El Rincon de Megadeth\El Rincon de Megadeth\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Lorenzo\OneDrive - INSTITUCION UNIVERSITARIA SALAZAR Y HERRERA\Escritorio\dron\El Rincon de Megadeth\El Rincon de Megadeth\obj\Debug\Interop.WMPLib.dll
+C:\Users\Lorenzo\OneDrive - INSTITUCION UNIVERSITARIA SALAZAR Y HERRERA\Escritorio\dron\El Rincon de Megadeth\El Rincon de Megadeth\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Lorenzo\OneDrive - INSTITUCION UNIVERSITARIA SALAZAR Y HERRERA\Escritorio\dron\El Rincon de Megadeth\El Rincon de Megadeth\obj\Debug\El Rincon de Megadeth.csproj.ResolveComReference.cache
+C:\Users\Lorenzo\OneDrive - INSTITUCION UNIVERSITARIA SALAZAR Y HERRERA\Escritorio\dron\El Rincon de Megadeth\El Rincon de Megadeth\bin\Debug\MACTrackBarLib.dll
+C:\Users\Lorenzo\OneDrive - INSTITUCION UNIVERSITARIA SALAZAR Y HERRERA\Escritorio\dron\El Rincon de Megadeth\El Rincon de Megadeth\obj\Debug\El Rinco.58D3D7AB.Up2Date
+D:\LORENZO\Escritorio\Programas\Reproductor Audio Visual Megadeth\El Rincon de Megadeth\El Rincon de Megadeth\El Rincon de Megadeth\bin\Debug\El Rincon de Megadeth.exe.config
+D:\LORENZO\Escritorio\Programas\Reproductor Audio Visual Megadeth\El Rincon de Megadeth\El Rincon de Megadeth\El Rincon de Megadeth\bin\Debug\El Rincon de Megadeth.exe
+D:\LORENZO\Escritorio\Programas\Reproductor Audio Visual Megadeth\El Rincon de Megadeth\El Rincon de Megadeth\El Rincon de Megadeth\bin\Debug\El Rincon de Megadeth.pdb
+D:\LORENZO\Escritorio\Programas\Reproductor Audio Visual Megadeth\El Rincon de Megadeth\El Rincon de Megadeth\El Rincon de Megadeth\bin\Debug\MACTrackBarLib.dll
+D:\LORENZO\Escritorio\Programas\Reproductor Audio Visual Megadeth\El Rincon de Megadeth\El Rincon de Megadeth\El Rincon de Megadeth\bin\Debug\Interop.WMPLib.dll
+D:\LORENZO\Escritorio\Programas\Reproductor Audio Visual Megadeth\El Rincon de Megadeth\El Rincon de Megadeth\El Rincon de Megadeth\bin\Debug\AxInterop.WMPLib.dll
+D:\LORENZO\Escritorio\Programas\Reproductor Audio Visual Megadeth\El Rincon de Megadeth\El Rincon de Megadeth\El Rincon de Megadeth\obj\Debug\El Rincon de Megadeth.csproj.AssemblyReference.cache
+D:\LORENZO\Escritorio\Programas\Reproductor Audio Visual Megadeth\El Rincon de Megadeth\El Rincon de Megadeth\El Rincon de Megadeth\obj\Debug\Interop.WMPLib.dll
+D:\LORENZO\Escritorio\Programas\Reproductor Audio Visual Megadeth\El Rincon de Megadeth\El Rincon de Megadeth\El Rincon de Megadeth\obj\Debug\AxInterop.WMPLib.dll
+D:\LORENZO\Escritorio\Programas\Reproductor Audio Visual Megadeth\El Rincon de Megadeth\El Rincon de Megadeth\El Rincon de Megadeth\obj\Debug\El Rincon de Megadeth.csproj.ResolveComReference.cache
+D:\LORENZO\Escritorio\Programas\Reproductor Audio Visual Megadeth\El Rincon de Megadeth\El Rincon de Megadeth\El Rincon de Megadeth\obj\Debug\El_Rincon_de_Megadeth.Bienvenida.resources
+D:\LORENZO\Escritorio\Programas\Reproductor Audio Visual Megadeth\El Rincon de Megadeth\El Rincon de Megadeth\El Rincon de Megadeth\obj\Debug\El_Rincon_de_Megadeth.Menu.resources
+D:\LORENZO\Escritorio\Programas\Reproductor Audio Visual Megadeth\El Rincon de Megadeth\El Rincon de Megadeth\El Rincon de Megadeth\obj\Debug\El_Rincon_de_Megadeth.Properties.Resources.resources
+D:\LORENZO\Escritorio\Programas\Reproductor Audio Visual Megadeth\El Rincon de Megadeth\El Rincon de Megadeth\El Rincon de Megadeth\obj\Debug\El Rincon de Megadeth.csproj.GenerateResource.cache
+D:\LORENZO\Escritorio\Programas\Reproductor Audio Visual Megadeth\El Rincon de Megadeth\El Rincon de Megadeth\El Rincon de Megadeth\obj\Debug\El Rincon de Megadeth.csproj.CoreCompileInputs.cache
+D:\LORENZO\Escritorio\Programas\Reproductor Audio Visual Megadeth\El Rincon de Megadeth\El Rincon de Megadeth\El Rincon de Megadeth\obj\Debug\El Rinco.58D3D7AB.Up2Date
+D:\LORENZO\Escritorio\Programas\Reproductor Audio Visual Megadeth\El Rincon de Megadeth\El Rincon de Megadeth\El Rincon de Megadeth\obj\Debug\El Rincon de Megadeth.exe
+D:\LORENZO\Escritorio\Programas\Reproductor Audio Visual Megadeth\El Rincon de Megadeth\El Rincon de Megadeth\El Rincon de Megadeth\obj\Debug\El Rincon de Megadeth.pdb
